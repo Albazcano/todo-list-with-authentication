@@ -29,7 +29,11 @@ En el caso de que ya lo tengamos en nuestro equipo y utilizamos el comando anter
 
 Introduciremos en nuestra consola este comando
 
->> django-admin startproyect <nombre_del_proyecto>
+>> django-admin startproject <nombre_del_proyecto>
+
+A continuación, crearemos nuestra app en mi caso lo haré en la terminal de Visual Studio Code (es el editor de código que he utilizado para realizar este proyecto) este comando
+
+>> python manage.py startapp <nombre_de_la_app>
 
 ## To run in hot module reloading mode
 
