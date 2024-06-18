@@ -24,6 +24,13 @@ Para realizar este proyecto lo primero que tenemos que chequear es si tenemos in
 
 En el caso de que ya lo tengamos en nuestro equipo y utilizamos el comando anterior lo único que hará es actualizarlo a la última versión.
 
+
+## Comenzar proyecto
+
+Introduciremos en nuestra consola este comando
+
+>> django-admin startproyect <nombre_del_proyecto>
+
 ## To run in hot module reloading mode
 
 >> npm run start
