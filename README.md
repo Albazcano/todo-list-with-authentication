@@ -12,9 +12,14 @@ El objetivo es crear un programa en Python utilizando Programación Orientada a 
 
 Mobile first.
 Foco en UX.
+Vistas basadas en clases
 Código Limpio.
 Marcado HTML semántico
 Clases CSS reutilizables.
+
+# Bonus
+
+Hemos añadido la funcionalidad de busqueda para que sea más fácil encontrar ciertos items. Tambien podremos registrarnos e iniciar sesión como usuarios, por lo que solo un usuario que ha iniciado sesión puede ver su propia información. Con esto estableceremos permisos y restringir a los usuarios el acceso a determinado elemento no permitido.
 
 ### Pre-requisitos 📋
 
