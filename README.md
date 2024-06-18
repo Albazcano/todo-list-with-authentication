@@ -1,6 +1,6 @@
 # To Do List Django
 
-Repositorio base para los equipos que quieran utilizar parcel, sass y typescript en el proyecto
+Repositorio base para los equipos que quieran utilizar python y django en el proyecto
 
 ## Comenzando 🚀
 
@@ -40,10 +40,6 @@ A continuación, crearemos nuestra app en mi caso lo haré en la terminal de Vis
 >> npm run start
 
 ### Instalación 🔧
-
-* To run in hot module reloading mode
-
->> npm run start
 
 * Levantar el servidor 
 
