@@ -18,7 +18,11 @@ Clases CSS reutilizables.
 
 ### Pre-requisitos 📋
 
->> npm install
+Para realizar este proyecto lo primero que tenemos que chequear es si tenemos instalado Python en nuestro equipo y si no es así hacerlo. También deberemos instalar si no lo hemos hecho ya, Django pero eso lo haremos a través de este comando
+
+>> pip install django
+
+En el caso de que ya lo tengamos en nuestro equipo y utilizamos el comando anterior lo único que hará es actualizarlo a la última versión.
 
 ## To run in hot module reloading mode
 
