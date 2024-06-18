@@ -18,10 +18,21 @@ Clases CSS reutilizables.
 
 ### Pre-requisitos 📋
 
+>> npm install
+
 ## To run in hot module reloading mode
+
+>> npm run start
 
 ### Instalación 🔧
 
+* To run in hot module reloading mode
+
+>> npm run start
+
+* Levantar el servidor 
+
+>> python manage.py runserver
 
 ## Stack 📌
 
@@ -29,6 +40,11 @@ Clases CSS reutilizables.
 - Django
 - HTML
 
+## Preview 
+
+<p align="left">
+   <img src="./resources/Collage readme github_page.jpg"/> 
+</p>
 ## Autores ✒️
 
 * **Alba Azcano** - *Trabajo y documentación* - [Albazcano](https://github.com/Albazcano)
