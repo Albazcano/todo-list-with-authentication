@@ -35,10 +35,6 @@ A continuación, crearemos nuestra app en mi caso lo haré en la terminal de Vis
 
 >> python manage.py startapp <nombre_de_la_app>
 
-## To run in hot module reloading mode
-
->> npm run start
-
 ### Instalación 🔧
 
 * Levantar el servidor 
