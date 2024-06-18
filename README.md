@@ -17,11 +17,11 @@ Código Limpio.
 Marcado HTML semántico
 Clases CSS reutilizables.
 
-# Bonus
+### Bonus
 
 Hemos añadido la funcionalidad de búsqueda para que sea más fácil encontrar ciertos items. También podremos registrarnos e iniciar sesión como usuarios, por lo que solo un usuario que ha iniciado sesión puede ver su propia información. Con esto estableceremos permisos y restringir a los usuarios el acceso a determinado elemento no permitido.
 
-### Prerrequisitos 📋
+## Prerrequisitos 📋
 
 Para realizar este proyecto lo primero que tenemos que chequear es si tenemos instalado Python en nuestro equipo y si no es así hacerlo. También deberemos instalar si no lo hemos hecho ya, Django pero eso lo haremos a través de este comando
 
