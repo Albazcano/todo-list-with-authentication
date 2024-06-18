@@ -1,4 +1,4 @@
-# To Do List Django
+# To Do List with user authentication
 
 Repositorio base para los equipos que quieran utilizar Python y Django en el proyecto
 
